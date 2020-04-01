@@ -62,8 +62,8 @@ This quickstart requires an Inifinispan server to be available and by default ex
 
 You can install Inifinispan server by downloading it from [official website](https://infinispan.org/download/) version to be used is at least 10.0.0.Final
 
-* Infinispan installed and running	
-<p align="center"><img src="docs/images/infinispanInstalledAndRunning.png"></p>
+* MongoDB installed and running	
+<p align="center"><img src="docs/images/mongo.png"></p>
 
 ## Build and run
 
