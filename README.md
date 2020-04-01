@@ -1,4 +1,4 @@
-# Kogito with persistence powered by Infinispan
+# Kogito with persistence powered by Mongo
 
 ## Description
 
